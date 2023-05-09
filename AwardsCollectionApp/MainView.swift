@@ -9,7 +9,7 @@ import SwiftUI
 
 struct MainView: View {
     @State private var awardIsShowing = false
-    
+    // Гордиться нечем тут, сделал как получилось
     var body: some View {
         VStack {
             Button(action: buttonAction) {
